@@ -7,7 +7,7 @@ USAGE:      server.py and api_test.py run on the Raspberry Pi, client.py runs on
 SERVER COMMAND STRUCTURE:
 
     Start server:               python server.py
-                                input server local IP and port
+                                input server local IP, port, and admin password
 
     Finding Pi local IP:        cmd >ifconfig 
 
